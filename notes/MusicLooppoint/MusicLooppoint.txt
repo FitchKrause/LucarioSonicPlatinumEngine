@@ -1,0 +1,13 @@
+This is a list of looppoints.
+(Works only with 44.100 Hz).
+  
+General Music:
+- bgmBossTheme: 286809
+- bgmInvincibility: 39513
+- bgmMainMenu: 70623
+- bgmMainMenuAlt: 70623
+- bgmMainMenuOld: 752577
+  
+Zones Music:
+- bgmZoneEmeraldHill: 153236
+- bgmZoneMarble: 109508

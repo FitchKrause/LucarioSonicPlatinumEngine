@@ -1,0 +1,45 @@
+{
+  "spriteId": {
+    "name": "sprEHZTile32",
+    "path": "sprites/sprEHZTile32/sprEHZTile32.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "sprEHZTile32Mask",
+    "path": "sprites/sprEHZTile32Mask/sprEHZTile32Mask.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objColliderHard",
+    "path": "objects/objColliderHard/objColliderHard.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":-34.0,},
+    {"x":64.0,"y":64.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objEHZTile32","path":"objects/objEHZTile32/objEHZTile32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Part 2",
+    "path": "folders/Tiles/Emerald Hill Zone/Part 2.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "objEHZTile32",
+  "tags": [],
+  "resourceType": "GMObject",
+}

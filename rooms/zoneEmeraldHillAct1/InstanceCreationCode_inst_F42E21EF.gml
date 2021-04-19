@@ -1,0 +1,2 @@
+
+    icon = MONITOR_INVINCIBILITY;

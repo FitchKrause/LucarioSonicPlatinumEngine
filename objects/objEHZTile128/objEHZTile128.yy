@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "sprEHZTile128",
+    "path": "sprites/sprEHZTile128/sprEHZTile128.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "sprEHZTile128Mask",
+    "path": "sprites/sprEHZTile128Mask/sprEHZTile128Mask.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objColliderHard",
+    "path": "objects/objColliderHard/objColliderHard.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":-34.0,},
+    {"x":64.0,"y":64.0,},
+  ],
+  "eventList": [],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Part 4",
+    "path": "folders/Tiles/Emerald Hill Zone/Part 4.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "objEHZTile128",
+  "tags": [],
+  "resourceType": "GMObject",
+}

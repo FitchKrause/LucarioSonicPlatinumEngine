@@ -1,0 +1,14 @@
+Player animation template
+
+/// @description player_animation_NAME(tick)
+/// @arg tick
+function player_animation_NAME()
+{
+	switch argument[0]
+	{
+		case 0:
+		{
+		    break;
+		}
+	}
+}

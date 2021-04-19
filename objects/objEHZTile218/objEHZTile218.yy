@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "sprEHZTile218",
+    "path": "sprites/sprEHZTile218/sprEHZTile218.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objColliderHard",
+    "path": "objects/objColliderHard/objColliderHard.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":-34.0,},
+    {"x":64.0,"y":64.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objEHZTile218","path":"objects/objEHZTile218/objEHZTile218.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Part 6",
+    "path": "folders/Tiles/Emerald Hill Zone/Part 6.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "objEHZTile218",
+  "tags": [],
+  "resourceType": "GMObject",
+}

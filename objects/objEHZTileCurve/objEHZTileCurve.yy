@@ -1,0 +1,45 @@
+{
+  "spriteId": {
+    "name": "sprEHZTileCurveMask",
+    "path": "sprites/sprEHZTileCurveMask/sprEHZTileCurveMask.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": {
+    "name": "sprEHZTileCurveMask",
+    "path": "sprites/sprEHZTileCurveMask/sprEHZTileCurveMask.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objColliderHard",
+    "path": "objects/objColliderHard/objColliderHard.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":-4.0,},
+    {"x":62.0,"y":62.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objEHZTileCurve","path":"objects/objEHZTileCurve/objEHZTileCurve.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Curve",
+    "path": "folders/Tiles/Emerald Hill Zone/Curve.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "objEHZTileCurve",
+  "tags": [],
+  "resourceType": "GMObject",
+}

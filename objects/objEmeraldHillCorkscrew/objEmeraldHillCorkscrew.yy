@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "sprEmeraldHillCorkscrew",
+    "path": "sprites/sprEmeraldHillCorkscrew/sprEmeraldHillCorkscrew.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objColliderSoft",
+    "path": "objects/objColliderSoft/objColliderSoft.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":192.0,"y":192.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objEmeraldHillCorkscrew","path":"objects/objEmeraldHillCorkscrew/objEmeraldHillCorkscrew.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objEmeraldHillCorkscrew","path":"objects/objEmeraldHillCorkscrew/objEmeraldHillCorkscrew.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Emerald Hill Zone",
+    "path": "folders/Objects/Specific Zone/Emerald Hill Zone.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "objEmeraldHillCorkscrew",
+  "tags": [],
+  "resourceType": "GMObject",
+}

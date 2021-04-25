@@ -17,7 +17,7 @@ if effect_started
 			{
 				effect_started = false;
 				menu_active = true;
-				music_play_loop(bgmMainMenuFull, 70623, audio_sound_get_track_position(objMusic.music_playing) * objMusic.sample_rate);
+				//music_play_loop(bgmMainMenuFull, 70623, audio_sound_get_track_position(objMusic.music_playing) * objMusic.sample_rate);
 			}
 			else { effect_alpha2 += 0.2; }
 	    }
@@ -55,7 +55,7 @@ if effect_started
 				effect_started = false;
 				menu_active = true;
 				menu_state = 0;
-				music_play_loop(bgmMainMenu, 70623, audio_sound_get_track_position(objMusic.music_playing) * objMusic.sample_rate);
+				//music_play_loop(bgmMainMenu, 70623, audio_sound_get_track_position(objMusic.music_playing) * objMusic.sample_rate);
 			}
 			else { effect_alpha2 -= 0.2; }
 	    }

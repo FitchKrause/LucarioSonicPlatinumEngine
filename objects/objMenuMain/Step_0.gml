@@ -781,7 +781,7 @@ switch menu_state
             global.is_levelselect = false;
             
             music_reset_pitch();
-            music_play_loop(bgmMainMenuFull, 70623, 0, MUSPLAYFLAG_NOFORCE);
+            music_play_loop(bgmMainMenu, 70623, 0, MUSPLAYFLAG_NOFORCE);
 			music_set_pitch(1);
         }
         
@@ -792,17 +792,17 @@ switch menu_state
                 switch sound_index
                 {
                     case 1: { music_play_loop(bgmMainMenu, 70623); break; }
-					case 2: { music_play_loop(bgmMainMenuFull, 70623); break; }
-                    case 3: { music_play_overlay(bgmExtraLife); break; }
-                    case 4: { music_play_single(bgmLevelClear); break; }
-                    case 5: { music_play_single(bgmDrowning); break; }
-                    case 6: { music_play_single(bgmGameOver); break; }
-                    case 7: { music_play_single(bgmContinueScreen); break; }
-                    case 8: { music_play_loop(bgmInvincibility, 39513); break; }
-                    case 9: { music_play_loop(bgmTransformationTheme); break; }
+					//case 2: { music_play_loop(bgmMainMenuFull, 70623); break; }
+                    case 2: { music_play_overlay(bgmExtraLife); break; }
+                    case 3: { music_play_single(bgmLevelClear); break; }
+                    case 4: { music_play_single(bgmDrowning); break; }
+                    case 5: { music_play_single(bgmGameOver); break; }
+                    case 6: { music_play_single(bgmContinueScreen); break; }
+                    case 7: { music_play_loop(bgmInvincibility, 39513); break; }
+                    case 8: { music_play_loop(bgmTransformationTheme); break; }
                     
                     /* ZONE TRACKS START*/
-                    case 10: { music_play_loop(bgmZoneEmeraldHill, 153236); break; }
+                    case 9: { music_play_loop(bgmZoneEmeraldHill, 153236); break; }
                     /* ZONE TRACKS END*/
                     
                     /* TOP SECRET MUSIC MODIFIERS */

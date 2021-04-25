@@ -1,10 +1,10 @@
 // Main
-#macro PROYECTNAME "Sonic Platinum Engine"
-#macro VERSION "Alpha 10"
+#macro PROYECTNAME "Lucario's Sonic Platinum Engine"
+#macro VERSION "Alpha 10 (Unreleased)"
 #macro SAVEFILESETTINGS "enginesettings.data"
 //#macro SAVEFILEKEYBOARD "keyboard.data"
 //#macro SAVEFILEGAMEPAD "gamepad.data"
-#macro MASTERKEY "LucarioTheAuraPokemon"
+#macro MASTERKEY "Lucario-TheAuraPokemon"
 #macro MAX_SCORE 999999999
 #macro MAX_RINGS 9999
 #macro MAX_LIVES 9999

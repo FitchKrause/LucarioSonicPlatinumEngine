@@ -529,7 +529,6 @@
     {"id":{"name":"collision_box_vertical","path":"scripts/collision_box_vertical/collision_box_vertical.yy",},"order":1,},
     {"id":{"name":"collision_pixel","path":"scripts/collision_pixel/collision_pixel.yy",},"order":2,},
     {"id":{"name":"collision_ray","path":"scripts/collision_ray/collision_ray.yy",},"order":3,},
-    {"id":{"name":"bgmMainMenuFull","path":"sounds/bgmMainMenuFull/bgmMainMenuFull.yy",},"order":1,},
     {"id":{"name":"collision_ray_vertical","path":"scripts/collision_ray_vertical/collision_ray_vertical.yy",},"order":4,},
     {"id":{"name":"nsp_variable_get","path":"scripts/nsp_variable_get/nsp_variable_get.yy",},"order":0,},
     {"id":{"name":"default_settings","path":"scripts/default_settings/default_settings.yy",},"order":0,},

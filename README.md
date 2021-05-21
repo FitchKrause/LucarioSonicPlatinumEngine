@@ -42,7 +42,7 @@ It tries to give a classic Sonic experience with some additions like Dropdash, I
 - CUstomizable HUD, ScoreCard and TitleCard. (Only custom defined, sonic 1 style and sonic 2 style works for the moment).
 - Toggleable option to display continues counter above lives counter.
 - Toggleable option to show leading zeroes on all the counters.
-- Transparency optio for the HUD, doesn't afects titlecard and scorecard.
+- Transparency option for the HUD, does not afects the TitleCard and the ScoreCard.
 
 ## Characters
 - Sonic the hedgehog.
